@@ -1,0 +1,48 @@
+section 1: connaisances générales
+
+  .le développement web est un processus d'écriture
+ d'un site ou d'une page web dans un langage technique.
+ Il est essentiel dans le contexte internet car favorise aux réseaux
+ et aux utilisateurs de s'interconnecter 
+sans restrictions géographiques. 
+   
+    .connaissances HTML
+ oui j'ai entendu parler de HTML
+HTML signifie: HyperText Markup Language
+et son objectif principal dans le développement
+web ,Il est  de créer et de représenter 
+le contenu d'une page web et sa structure.
+
+section 2: familiarité avec css
+    
+  compréhension de css
+
+   .oui je suis familier avec css 
+ css signifie : Cascading Style Sheets ce qui signifie feuille de style en cascade.
+Le CSS correspond à un langage informatique permettant de mettre
+ en forme des pages web (HTML ou XML).
+Ce langage est donc composé des fameuses « feuilles de style en cascade »
+ également appelées fichiers CSS . (css) et contient des éléments de codage.
+
+
+section 3: javascript et son importante
+
+  Introduction à javascript
+
+   .Oui j'ai déjà entendu parler de javascript
+ javascript est un langage de programmation de scripts principalement 
+employé dans les pages web interactives et à ce titre 
+est une partie essentielle des applications web.
+Les fonctions JavaScript peuvent permettre d'améliorer
+ l'expérience utilisateur d'un site web, de la mise à jour des flux 
+de médias sociaux à l'affichage d'animations et de cartes interactives.
+
+Section 4 : Introduction à React et Node.js
+
+  Connaissance de React et Node.js
+le moment non mais mon but est de me familiariser avec React et Node.js
+
+Section 5 : Bonus de questions
+
+ Je veux apprendre le développement web afin d'elargir mes connaissance dans le domaine informatique 
+et creer des logiciels , des sites web  
